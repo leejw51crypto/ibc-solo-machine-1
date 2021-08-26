@@ -1,0 +1,1 @@
+solo-machine  ibc mint applemint_9000-2 100 aapple
