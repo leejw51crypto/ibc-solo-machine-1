@@ -1,0 +1,1 @@
+solo-machine  ibc burn applemint_9000-2 5 aapple

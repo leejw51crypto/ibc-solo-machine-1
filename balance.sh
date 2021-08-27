@@ -1,0 +1,1 @@
+solo-machine  chain balance applemint_9000-2 aapple
